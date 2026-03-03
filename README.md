@@ -1,13 +1,7 @@
 # Vue i18n
 
-[![](https://vsmarketplacebadge.apphb.com/version/RichieChoo.vue-swift-i18n.svg)](https://marketplace.visualstudio.com/items?itemName=RichieChoo.vue-swift-i18n)
-[![](https://vsmarketplacebadge.apphb.com/installs-short/RichieChoo.vue-swift-i18n.svg)](https://marketplace.visualstudio.com/items?itemName=RichieChoo.vue-swift-i18n)
-[![](https://vsmarketplacebadge.apphb.com/downloads-short/RichieChoo.vue-swift-i18n.svg)](https://marketplace.visualstudio.com/items?itemName=RichieChoo.vue-swift-i18n)
-[![](https://vsmarketplacebadge.apphb.com/rating-short/RichieChoo.vue-swift-i18n.svg)](https://marketplace.visualstudio.com/items?itemName=RichieChoo.vue-swift-i18n)
-[![](https://vsmarketplacebadge.apphb.com/trending-monthly/RichieChoo.vue-swift-i18n.svg)](https://marketplace.visualstudio.com/items?itemName=RichieChoo.vue-swift-i18n)
-
-
 ## ✨ 快速开始
+
 ![vue-swift-i18n](swift.gif)
 
 ## 契子
@@ -21,7 +15,7 @@
 
 ## 设计
 
-![design.png](https://cdn.nlark.com/yuque/0/2020/png/111625/1582165204110-151c4717-556e-443e-8975-cb29cbcbe83f.png "design")
+![design.png](https://cdn.nlark.com/yuque/0/2020/png/111625/1582165204110-151c4717-556e-443e-8975-cb29cbcbe83f.png 'design')
 
 ## 插件功能
 
@@ -44,4 +38,4 @@
 ## 赞赏
 
 如果插件给您带来便利,欢迎 star 或 赞赏哦
-![star或者好评我给你返现，加我好友吧！](https://cdn.nlark.com/yuque/0/2020/png/111625/1591099372734-9be6b399-dc8e-4b2b-9313-b2f6b4c0169c.png "star或者好评我给你返现，加我好友吧！")
+![star或者好评我给你返现，加我好友吧！](https://cdn.nlark.com/yuque/0/2020/png/111625/1591099372734-9be6b399-dc8e-4b2b-9313-b2f6b4c0169c.png 'star或者好评我给你返现，加我好友吧！')

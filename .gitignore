@@ -14,4 +14,4 @@ run/
 .idea/*.*
 package-lock.json
 dist/
-
+.history
